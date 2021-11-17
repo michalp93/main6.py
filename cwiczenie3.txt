@@ -1,0 +1,1 @@
+Napisz program w Pythonie, który znajdzie najdłuższe słowa w pliku tekstowym.
